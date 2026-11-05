@@ -8,3 +8,5 @@ La clase `Propiedad` almacena la dirección, tasación, estado legal y propietar
 Se simulan dos situaciones: una transferencia exitosa y otra rechazada por una validación legal.
 
 El objetivo es practicar la **comunicación entre objetos**, el uso de referencias, la encapsulación, los métodos y la aplicación de reglas de negocio mediante validaciones.
+
+![Ejercicio 12](U2%20ejercicio12.png)
